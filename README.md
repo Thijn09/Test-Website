@@ -5,4 +5,4 @@ A simple website.
 *Italic* or _Italic_\
 ***Bold and Italic***
 <h1>Title</h1>
-<p>So HTML tags work too.</p>
+<p>So HTML tags work too in .md files.</p>
